@@ -1,2 +1,2 @@
 # DungeonRPG
- Dungeon pixel RPG game
+Pixel dungeon RPG game
